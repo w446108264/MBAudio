@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+
+
+
+
+    <!--smae-->
+    <!--<color name="audio_activity_top_bg">#fbb03b</color> -->
+    <!--<color name="audio_sense_wave_played_top">#ffffff</color>-->
+    <!--<color name="audio_sense_wave_played_bottom">#fdc53a</color>-->
+    <!--<color name="audio_sense_staff_line">#fed23a</color>-->
+    <!--<color name="audio_sense_vertical_line">#f15a24</color>-->
+    <!--<color name="audio_sense_bg">#fabb3a</color>-->
+
+    <color name="audio_activity_top_bg">#EFF3F8</color>
+    <color name="audio_sense_wave_played_top">#bbd8e1</color>
+    <color name="audio_sense_wave_played_bottom">#bbd8e1</color>
+    <color name="audio_sense_staff_line">#bbd8e1</color>
+    <color name="audio_sense_vertical_line">#3BA9FC</color>
+    <color name="audio_sense_bg">#bbd8e1</color>
+    <color name="audio_text">#8dbfd0</color>
+</resources>
