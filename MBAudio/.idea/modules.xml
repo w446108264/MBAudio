@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/MBAudio.iml" filepath="$PROJECT_DIR$/MBAudio.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/lame/lame.iml" filepath="$PROJECT_DIR$/lame/lame.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lame/lamelibrary.iml" filepath="$PROJECT_DIR$/lame/lamelibrary.iml" />
     </modules>
   </component>
 </project>
